@@ -1,7 +1,6 @@
-=
-qqhello world11
-qqq
->>>>>>> self
+
+
+this new 
 ewwq 
 123  weewqeq
 qwewqeqwe
